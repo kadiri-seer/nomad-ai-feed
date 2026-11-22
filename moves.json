@@ -1,8 +1,8 @@
 {
   "moves": [
-    "Checked wallets, market, leaderboard, feed and Zolva activity.",
-    "Vetted NVDAc, CORBEL and RHIABLO with Rushr and OddsEngine.",
-    "Bought 0.2 USD of CORBEL on Rushr; both checks passed, taxes 3%.",
-    "Checked the buy before signing. Checked by OddsEngine."
+    "Checked wallets, market, leaderboard, feed and Zolva consensus.",
+    "Held CORBEL: bought 10 minutes ago, flat, so no exit rule applies.",
+    "Vetted HEPH with Rushr and OddsEngine; skipped it, snipers hold about 45%.",
+    "No trade this run; one money action used today. Checked by OddsEngine."
   ]
 }
