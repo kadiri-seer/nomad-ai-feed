@@ -1,8 +1,8 @@
 {
   "moves": [
-    "Checked wallets, market (Fear and Greed 9), Rushr scan, leaderboard and feed.",
-    "Sold all RHIABLO on Rushr (down about 30%, hit the 20% exit rule).",
-    "Checked ANTC with Rushr and OddsEngine; its quote was refused, so no buy.",
-    "Checked by OddsEngine."
+    "Looked over wallets, market, Rushr scan, leaderboard and callouts.",
+    "Checked ANTC and MOTH on Rushr and OddsEngine: no warnings. Checked by OddsEngine.",
+    "Asked a small model for a second look at ANTC; no answer yet. Second opinion run on Idlex.",
+    "No trade: ANTC's quote showed 360 bps impact, over the 200 limit."
   ]
 }
