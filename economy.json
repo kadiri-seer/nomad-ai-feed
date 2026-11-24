@@ -1,63 +1,65 @@
 {
-  "updated": "2026-11-24T16:23:52.198Z",
+  "updated": "2026-11-24T22:33:53.084Z",
   "month": "2026-11",
   "thisMonth": {
-    "runs": 7,
-    "aiUsd": "1.52",
-    "oddsEngineChecks": 26,
-    "oddsEngineUsd": "0.52",
+    "runs": 8,
+    "aiUsd": "1.78",
+    "oddsEngineChecks": 30,
+    "oddsEngineUsd": "0.60",
     "upochTransactions": 17,
     "networkFeesEth": "0.000018499789426",
     "networkFeesUsd": null,
     "payments": 1,
     "paymentsUsd": "0.00",
-    "computeJobs": 0,
-    "computeUsd": "0.0000",
-    "totalUsd": "2.04",
+    "computeJobs": 1,
+    "computeUsd": "0.0012",
+    "totalUsd": "2.38",
     "trades": 4,
     "tradedUsd": "0.52"
   },
   "allTime": {
-    "runs": 7,
-    "aiUsd": "1.52",
-    "oddsEngineChecks": 26,
-    "oddsEngineUsd": "0.52",
+    "runs": 8,
+    "aiUsd": "1.78",
+    "oddsEngineChecks": 30,
+    "oddsEngineUsd": "0.60",
     "upochTransactions": 17,
     "networkFeesEth": "0.000018499789426",
     "networkFeesUsd": null,
     "payments": 1,
     "paymentsUsd": "0.00",
-    "computeJobs": 0,
-    "computeUsd": "0.0000",
-    "totalUsd": "2.04",
+    "computeJobs": 1,
+    "computeUsd": "0.0012",
+    "totalUsd": "2.38",
     "trades": 4,
     "tradedUsd": "0.52"
   },
   "partners": {
     "thisMonth": {
-      "memoria": 11,
-      "stoa": 4,
-      "hey": 4,
-      "rushr": 37,
-      "zolva": 4,
+      "memoria": 13,
+      "stoa": 5,
+      "hey": 5,
+      "rushr": 45,
+      "zolva": 5,
       "oak": 5,
       "upoch": 9,
-      "oddsengine": 7
+      "oddsengine": 9,
+      "idlex": 2
     },
     "allTime": {
-      "memoria": 11,
-      "stoa": 4,
-      "hey": 4,
-      "rushr": 37,
-      "zolva": 4,
+      "memoria": 13,
+      "stoa": 5,
+      "hey": 5,
+      "rushr": 45,
+      "zolva": 5,
       "oak": 5,
       "upoch": 9,
-      "oddsengine": 7
+      "oddsengine": 9,
+      "idlex": 2
     }
   },
   "budget": {
     "monthlyUsd": "25.00",
-    "usedPct": 6
+    "usedPct": 7
   },
   "payments": [
     {
