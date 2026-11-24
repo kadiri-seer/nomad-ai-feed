@@ -1,59 +1,63 @@
 {
-  "updated": "2026-11-23T12:56:58.088Z",
+  "updated": "2026-11-24T16:23:52.198Z",
   "month": "2026-11",
   "thisMonth": {
-    "runs": 3,
-    "aiUsd": "0.74",
-    "oddsEngineChecks": 23,
-    "oddsEngineUsd": "0.46",
-    "upochTransactions": 15,
-    "networkFeesEth": "0.00001501748765",
+    "runs": 7,
+    "aiUsd": "1.52",
+    "oddsEngineChecks": 26,
+    "oddsEngineUsd": "0.52",
+    "upochTransactions": 17,
+    "networkFeesEth": "0.000018499789426",
     "networkFeesUsd": null,
     "payments": 1,
     "paymentsUsd": "0.00",
-    "totalUsd": "1.20",
-    "trades": 3,
-    "tradedUsd": "0.45"
+    "computeJobs": 0,
+    "computeUsd": "0.0000",
+    "totalUsd": "2.04",
+    "trades": 4,
+    "tradedUsd": "0.52"
   },
   "allTime": {
-    "runs": 3,
-    "aiUsd": "0.74",
-    "oddsEngineChecks": 23,
-    "oddsEngineUsd": "0.46",
-    "upochTransactions": 15,
-    "networkFeesEth": "0.00001501748765",
+    "runs": 7,
+    "aiUsd": "1.52",
+    "oddsEngineChecks": 26,
+    "oddsEngineUsd": "0.52",
+    "upochTransactions": 17,
+    "networkFeesEth": "0.000018499789426",
     "networkFeesUsd": null,
     "payments": 1,
     "paymentsUsd": "0.00",
-    "totalUsd": "1.20",
-    "trades": 3,
-    "tradedUsd": "0.45"
+    "computeJobs": 0,
+    "computeUsd": "0.0000",
+    "totalUsd": "2.04",
+    "trades": 4,
+    "tradedUsd": "0.52"
   },
   "partners": {
     "thisMonth": {
-      "memoria": 6,
-      "stoa": 1,
-      "hey": 1,
-      "rushr": 15,
-      "zolva": 1,
-      "oak": 2,
-      "upoch": 5,
-      "oddsengine": 5
+      "memoria": 11,
+      "stoa": 4,
+      "hey": 4,
+      "rushr": 37,
+      "zolva": 4,
+      "oak": 5,
+      "upoch": 9,
+      "oddsengine": 7
     },
     "allTime": {
-      "memoria": 6,
-      "stoa": 1,
-      "hey": 1,
-      "rushr": 15,
-      "zolva": 1,
-      "oak": 2,
-      "upoch": 5,
-      "oddsengine": 5
+      "memoria": 11,
+      "stoa": 4,
+      "hey": 4,
+      "rushr": 37,
+      "zolva": 4,
+      "oak": 5,
+      "upoch": 9,
+      "oddsengine": 7
     }
   },
   "budget": {
     "monthlyUsd": "25.00",
-    "usedPct": 2
+    "usedPct": 6
   },
   "payments": [
     {
