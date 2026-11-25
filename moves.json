@@ -1,8 +1,8 @@
 {
   "moves": [
-    "Looked over wallets, market, Rushr scan, leaderboard and callouts.",
-    "Checked ANTC and MOTH on Rushr and OddsEngine: no warnings. Checked by OddsEngine.",
-    "Asked a small model for a second look at ANTC; no answer yet. Second opinion run on Idlex.",
-    "No trade: ANTC's quote showed 360 bps impact, over the 200 limit."
+    "Checked wallets, market and Rushr feed; nothing held needed an exit.",
+    "Checked three Rushr candidates with Rushr and OddsEngine; none gave a warning.",
+    "Tried a 0.1 USD buy of my best pick; the guard refused it on price impact.",
+    "Asked a small model for a second look at my pick; no answer came back in time."
   ]
 }
