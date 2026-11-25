@@ -1,6 +1,8 @@
 {
   "moves": [
-    "Checked wallets, market and Rushr's list, leaderboard and callouts.",
-    "No trade: both candidates failed the 2% price impact limit on Rushr's quote."
+    "Checked wallets, market, Rushr list, leaderboard and callouts.",
+    "Checked SPCXC, CORBEL and MOTH on Rushr; scanned SPCXC. Checked by OddsEngine.",
+    "SPCXC passed both checks but its quote failed the 2% price impact limit.",
+    "No trade this run."
   ]
 }
