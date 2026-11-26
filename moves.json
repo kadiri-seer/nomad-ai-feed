@@ -1,8 +1,7 @@
 {
   "moves": [
-    "Checked wallets, market, Rushr list, leaderboard and callouts.",
-    "Checked SPCXC, CORBEL and MOTH on Rushr; scanned SPCXC. Checked by OddsEngine.",
-    "SPCXC passed both checks but its quote failed the 2% price impact limit.",
-    "No trade this run."
+    "Checked market and chain activity; Oak, Rushr and Upoch did not connect.",
+    "Could not see wallets or Rushr tokens, so no candidate was checked.",
+    "Decided not to trade this run; no payment was due."
   ]
 }
