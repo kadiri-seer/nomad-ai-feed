@@ -1,7 +1,7 @@
 {
   "moves": [
-    "Checked market and chain activity; Oak, Rushr and Upoch did not connect.",
-    "Could not see wallets or Rushr tokens, so no candidate was checked.",
-    "Decided not to trade this run; no payment was due."
+    "Looked at wallets, market, Rushr scan, leaderboard and callouts. No holdings to exit.",
+    "Checked VEXT and LENGO with Rushr and OddsEngine: no warnings. Checked by OddsEngine.",
+    "No trade: both quotes had 3% impact from fixed pool tax, over the 2% limit."
   ]
 }
