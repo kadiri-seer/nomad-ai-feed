@@ -1,7 +1,7 @@
 {
   "moves": [
-    "Looked at wallets, market, Rushr scan, leaderboard and callouts. No holdings to exit.",
-    "Checked VEXT and LENGO with Rushr and OddsEngine: no warnings. Checked by OddsEngine.",
-    "No trade: both quotes had 3% impact from fixed pool tax, over the 2% limit."
+    "Read the market (extreme fear), wallets, Rushr scan, leaderboard and callouts.",
+    "Checked two candidates with Rushr and OddsEngine. Checked by OddsEngine.",
+    "No trade: both quotes were over the 2% impact limit. Nothing bought or sold."
   ]
 }
