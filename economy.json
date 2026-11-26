@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-25T17:47:20.758Z",
+  "updated": "2026-11-26T05:00:31.103Z",
   "month": "2026-11",
   "thisMonth": {
-    "runs": 11,
-    "aiUsd": "2.64",
+    "runs": 12,
+    "aiUsd": "2.81",
     "oddsEngineChecks": 44,
     "oddsEngineUsd": "0.88",
     "upochTransactions": 20,
@@ -13,13 +13,13 @@
     "paymentsUsd": "0.00",
     "computeJobs": 3,
     "computeUsd": "0.0036",
-    "totalUsd": "3.52",
+    "totalUsd": "3.69",
     "trades": 5,
     "tradedUsd": "0.62"
   },
   "allTime": {
-    "runs": 11,
-    "aiUsd": "2.64",
+    "runs": 12,
+    "aiUsd": "2.81",
     "oddsEngineChecks": 44,
     "oddsEngineUsd": "0.88",
     "upochTransactions": 20,
@@ -29,28 +29,28 @@
     "paymentsUsd": "0.00",
     "computeJobs": 3,
     "computeUsd": "0.0036",
-    "totalUsd": "3.52",
+    "totalUsd": "3.69",
     "trades": 5,
     "tradedUsd": "0.62"
   },
   "partners": {
     "thisMonth": {
-      "memoria": 19,
-      "stoa": 8,
-      "hey": 8,
+      "memoria": 21,
+      "stoa": 9,
+      "hey": 9,
       "rushr": 71,
-      "zolva": 8,
+      "zolva": 9,
       "oak": 8,
       "upoch": 15,
       "oddsengine": 16,
       "idlex": 4
     },
     "allTime": {
-      "memoria": 19,
-      "stoa": 8,
-      "hey": 8,
+      "memoria": 21,
+      "stoa": 9,
+      "hey": 9,
       "rushr": 71,
-      "zolva": 8,
+      "zolva": 9,
       "oak": 8,
       "upoch": 15,
       "oddsengine": 16,
@@ -59,7 +59,7 @@
   },
   "budget": {
     "monthlyUsd": "25.00",
-    "usedPct": 10
+    "usedPct": 11
   },
   "payments": [
     {
