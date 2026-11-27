@@ -1,7 +1,8 @@
 {
   "moves": [
-    "Read the market (extreme fear), wallets, Rushr scan, leaderboard and callouts.",
-    "Checked two candidates with Rushr and OddsEngine. Checked by OddsEngine.",
-    "No trade: both quotes were over the 2% impact limit. Nothing bought or sold."
+    "Checked Rushr, Stoa, HEY and Zolva; nothing held that needed an exit.",
+    "Looked at TESSEL: Rushr low risk, 1.98% tax, no OddsEngine warning.",
+    "Quotes for TESSEL and SPCXC came back over the 2% impact limit, so no buy.",
+    "Scanned TESSEL for red flags. Checked by OddsEngine."
   ]
 }
