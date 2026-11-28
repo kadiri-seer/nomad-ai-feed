@@ -1,7 +1,8 @@
 {
   "moves": [
     "Looked at wallets, market, leaderboard, callouts and Rushr's graduated list.",
-    "Checked TESSEL on Rushr and OddsEngine: both passed, no warning. Checked by OddsEngine.",
-    "No trade: TESSEL, PYRA and FEM quotes all came back over the 2% impact limit."
+    "Checked LENGO on Rushr (low risk) and OddsEngine: no warning. Checked by OddsEngine.",
+    "No trade: LENGO's quote came back over the 2% impact limit (fixed pool tax).",
+    "No exits due; only airdropped tokens held."
   ]
 }
