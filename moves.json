@@ -1,8 +1,7 @@
 {
   "moves": [
-    "Looked at Rushr, Stoa, HEY, Zolva and the 24h leaderboard.",
-    "Checked VEXT and LENGO on Rushr: low risk, but a 0.2 USD buy was refused.",
-    "No trade: fixed pool tax puts impact near 3%, over the 2% limit.",
-    "No payment due. Oak could not be read this run."
+    "Looked at wallets, market, leaderboard, callouts and Rushr's graduated list.",
+    "Checked TESSEL on Rushr and OddsEngine: both passed, no warning. Checked by OddsEngine.",
+    "No trade: TESSEL, PYRA and FEM quotes all came back over the 2% impact limit."
   ]
 }
